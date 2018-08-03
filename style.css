@@ -1,0 +1,20 @@
+.section{ /*section est le bloc*/
+	background: grey;
+}
+
+.section_paragraph{ /*_paragraph est l'element dans le bloc*/
+	color: red;
+}
+
+.section_paragraph--backgroundblack{ /*--backgroundblack est la modification de l'element dans le bloc*/
+	background: black;
+}
+
+.section_paragraph--backgroundyellow{ 
+	background: yellow;
+}
+
+.section_paragraph--fontbold{
+	font-weight: bold;
+}
+/*mon premier push Github*/
